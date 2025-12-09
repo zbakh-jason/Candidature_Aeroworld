@@ -1,4 +1,8 @@
-# 🛬 Candidature Aéroworld - Chef de Projet Data ![Logo Aéroworld](./Logo_Aéroworld.jpg)
+# 🛬 Candidature Aéroworld - Chef de Projet Data 
+
+<div align="center">
+    <img src="./Logo_Aéroworld.jpg" width="300px" alt="Logo_Aéroworld">
+</div>
 
 Bienvenue sur l'espace dédié à ma candidature pour le poste de **Chef de Projet Data & IoT**.
 
