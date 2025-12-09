@@ -1,4 +1,4 @@
-# Analyse Stratégique des Besoins Métiers - Aéroworld
+# Analyse Stratégique des Besoins Métiers
 
 ## 1. Contexte & Méthodologie
 
