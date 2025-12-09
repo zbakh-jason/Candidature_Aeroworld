@@ -25,9 +25,9 @@ Afin de répondre à l'impératif demandé tout en maximisant le niveau de quali
     <img src="./Carte_mentale.png" width="900px" alt="Mindmap_employement_direction">
 </div>
 
-* **PLAN (Planifier & Cadrer) :** Définition stricte du périmètre et planification des jalons (Cahier des charges, Planning Gantt).
-* **ANALYZE (Analyser & Comprendre) :** Étude approfondie des besoins métiers d'Aéroworld et conception de solutions (Analyse stratégique, Maquettage UX/UI).
-* **CONSTRUCT (Construire & Développer) :** Phase de production des tableaux de bords interactif avec PowerBI, création de la documentation et enregistrement d'une vidéo de démonstration pédagogique. 
+* **PLAN (Planifier & Cadrer) :** Définition stricte du périmètre et planification des jalons.
+* **ANALYZE (Analyser & Comprendre) :** Étude approfondie des besoins métiers d'Aéroworld et conception de solutions.
+* **CONSTRUCT (Construire & Développer) :** Phase de production des tableaux de bords interactif, création de la documentation et enregistrement d'une vidéo de démonstration pédagogique. 
 * **EXECUTE (Exécuter & Livrer) :** Unification des livrables, déploiement sur GitHub puis tests de conformité.
 
 ## 📂 Structure des Livrables
