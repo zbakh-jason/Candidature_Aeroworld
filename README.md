@@ -1,6 +1,6 @@
 ---
 
-# 🛬 Candidature Aéroworld - Data Analyst - Chef de Projet
+# 🛬 Candidature Aéroworld - Chef de Projet Data
 
 ---
 
