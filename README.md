@@ -16,10 +16,10 @@ Bienvenue sur l'espace dédié à ma candidature pour le poste de **Data Analyst
 
 ### 🗺️ [Plan pour rejoindre Aéroworld](./Carte_mentale.png)
 
-Cette visualisation conçue comme un "plan de vol" avec pour objectif de rejoindre l'entreprise Aéroworld A pour but de matérialisé la stratégie de pilotage du projet.
-La prochaine escale au sein du parcours de candidature est la création des livrables dédier spécifiquement à cet offre.
+Cette visualisation A pour but de matérialisé la stratégie de pilotage du projet. Conçue comme un "plan de vol" avec pour objectif de rejoindre l'entreprise Aéroworld 
+La prochaine escale au sein du parcours de candidature est la création des livrables spécifique à cette offre.
 
-Afin de répondre à l'impératif demandé tout en maximisant le niveau de qualité des rendu j'ai choisi de structuré la démarche autour de la méthodologie **P.A.C.E.** (*Plan, Analyze, Construct, Execute*) :
+Afin de répondre à l'impératif demandé j'ai choisi de structuré la démarche autour de la méthodologie **P.A.C.E.** (*Plan, Analyze, Construct, Execute*) :
 
 <div align="center">
     <img src="./Carte_mentale.png" width="900px" alt="Mindmap_employement_direction">
