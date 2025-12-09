@@ -18,7 +18,7 @@ Ce dépôt regroupe l'ensemble des livrables stratégiques et techniques élabor
 
 ## 📂 Structure des Livrables
 
-### 1. [Carte mentale - Plan de vol vers Aéroworld](./Carte_mentale.png)
+### 1. [Carte mentale : Cap sur l'offre d'emploi](./Carte_mentale.png)
 Vue d'ensemble organisé en quatre axes majeurs. (Méthode P.A.C.E)
 
 ### 2. [Cahier des Charges Fonctionnel](./Cahier_des_charges/)
