@@ -1,5 +1,7 @@
 # 🛬 Candidature Aéroworld - Chef de Projet Data 
 
+---
+
 <div align="center">
     <img src="./Logo_Aéroworld.jpg" width="300px" alt="Logo_Aéroworld">
 </div>
@@ -7,6 +9,8 @@
 Bienvenue sur l'espace dédié à ma candidature pour le poste de **Chef de Projet Data & IoT**.
 
 Ce dépôt regroupe l'ensemble des livrables stratégiques et techniques élaborés en réponse aux besoins exprimés par Aéroworld. Il démontre ma méthodologie de gestion de projet, ma compréhension des enjeux aéronautiques et mon expertise technique.
+
+---
 
 ## 📂 Structure des Livrables
 
