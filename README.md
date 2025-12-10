@@ -12,9 +12,9 @@ Bienvenue sur l'espace dédié à ma candidature pour le poste de **Data Analyst
 
 ---
 
-### 🗺️ [Plan pour rejoindre Aéroworld](./Carte_mentale.png)
+### 🗺️ Plan pour rejoindre Aéroworld
 
-Cette visualisation a pour but de matérialiser la stratégie de pilotage du projet. Conçue comme un véritable "plan de vol", elle a comme objectif principal de rejoindre l'entreprise Aéroworld !
+Cette visualisation a pour but de matérialiser la stratégie de pilotage du projet. Conçue comme un véritable "plan de vol", elle a comme objectif principal de rejoindre l'entreprise Aéroworld.
 
 La prochaine escale au sein du parcours de candidature est la création des livrables spécifiques à cette offre.
 
