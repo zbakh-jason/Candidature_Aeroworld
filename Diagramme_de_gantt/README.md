@@ -9,10 +9,10 @@ L'approche méthodologique retenue est le **P.A.C.E.** (Plan, Analyze, Construct
 Ces dates clés marquent la validation des livrables et autorisent le passage à la phase suivante :
 
 * **Jalon 1 : Validation du Cadrage** (28/11/2025)
-  **Livrables de la phase :** Cahier des charges fonctionnel, Planning prévisionnel.
+</div> **Livrables :** Cahier des charges fonctionnel, Planning prévisionnel.
 * **Jalon 2 : Validation Conception & Design** (03/12/2025)
 **Livrables de la phase :** Document d'analyse des besoins, Maquettes graphiques des tableaux de bord.
-* **Jalon 3 : Validation Production Data** (15/12/2025)
+* **Jalon 3 : Validation Production** (15/12/2025)
 **Livrables de la phase :** Tableaux de bord fonctionnels (Power BI), Vidéo tutorielle, Documentation technique.
 * **Jalon 4 : Mise en Production (Déploiement)** (18/12/2025)
 **Livrables de la phase :** Site Portfolio en ligne, Repository GitHub complet
