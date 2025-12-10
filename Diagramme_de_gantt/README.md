@@ -16,6 +16,11 @@ Ces dates clés marquent la validation des livrables et autorisent le passage à
 
 ---
 
+<div align="center">
+    <img src="./Planning_Previsionnel.jpg" width="900px" alt="Planning_Previsionnel">
+</div>
+
+
 ## 3. Détail des Phases (Méthodologie P.A.C.E.)
 
 ### Phase 1 : P - PLAN (Planifier & Cadrer)
