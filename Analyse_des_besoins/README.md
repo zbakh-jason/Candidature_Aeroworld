@@ -71,8 +71,7 @@ Afin de démontrer ma capacité à relever ces défis, mon portfolio de candidat
 
 | Enjeu Aéroworld | Livrables & Réalisations dans le Portfolio |
 | :--- | :--- |
-| **Innovation & Veille** | **Dashboard de Veille Technologique** : Présentation dynamique des évolutions du secteur Data & IoT, attestant d'une curiosité technique active. |
-| **Maîtrise Technique** | **Projets GitHub & Dashboard Profil** : Répertoire de scripts Python/SQL et visualisations interactives illustrant le savoir-faire technique. |
+| **Maîtrise Technique** | **Projets GitHub & Dashboard Profil** : Répertoire des projets réalisés et visualisations interactives illustrant le savoir-faire technique. |
 | **Rigueur & Méthode** | **Gestion de Projet (PACE)** : Déploiement d'une méthodologie structurée (Gantt, Carte Mentale) pour piloter la performance. |
 | **Pédagogie** | **Vidéo Tutorielle** : Illustration de la capacité à transmettre le savoir et à former les équipes utilisatrices. |
 
