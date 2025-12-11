@@ -40,6 +40,9 @@ Le pilotage temporel du projet, du cadrage initial à la livraison finale. Cette
 ### 3. [Analyse Stratégique & Métier](./Analyse_des_besoins/)
 Une étude approfondie de l'écosystème Aéroworld, identifiant les besoins métiers ainsi que les leviers de performance par la Data.
 
+### 4. [Documentation - Préparation des données](./Documentation–Préparation_des_données.pdf)
+Guide technique, conçu pour les utilisateurs sous environnement Windows, détaille la procédure d'ingestion de données via API et les étapes de transformation (ETL) nécessaires à l'élaboration d'un tableau de bord de veille technologique.
+
 ---
 
 > **Jason ZBAKH** - Candidat Chef de Projet Data
