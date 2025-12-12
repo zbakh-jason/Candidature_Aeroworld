@@ -2,15 +2,15 @@
 
 
 
-Tableau de bord interactif offre une exploration dynamique de mon expertise technique et permet de visualiser concrètement ma maîtrise des outils Data et Business Intelligence.
+Tableau de bord interactif offre une exploration dynamique de mon expertise technique et permet de visualiser concrètement ma maîtrise des outils Data et Business Intelligence en parcourant les projets réalisés.
 
 
 
 <div align="center">
-    <img src="./Tableau_de_bord_veille-Analyse_d'offres_d'emploi.jpg" width="900px" alt="Tableau_de_bord_veille-Analyse_d'offres_d'emploi.jpg">
+    <img src="./Portfolio_candidat.jpg" width="900px" alt="Portfolio_candidat.jpg">
 </div>
 
 
 
-## 📂[Veille_technologique.pbix](./Veille_technologique.pbix)
+## 📂[Portfolio_Candidat.pbix](./Portfolio_Candidat.pbix)
 

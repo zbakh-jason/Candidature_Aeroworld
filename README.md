@@ -50,8 +50,7 @@ Guide de formation pédagogique au format vidéo sur l'utilisation du tableau de
 Tableau de bord offre une veille technologique factuelle en s'appuyant sur l'analyse quantitative des offres d'emploi, un indicateur avancé qui permet de confirmer l'utilisation effective des technologies en production au sein des entreprises.
 
 ### 7. [Tableau de bord - Portfolio Candidat](./Portfolio_Candidat/)
-Tableau de bord interactif offre une exploration dynamique de mon expertise technique et permet de visualiser concrètement ma maîtrise des outils Data et Business Intelligence.
-
+Tableau de bord interactif offre une exploration dynamique de mon expertise technique et permet de visualiser concrètement ma maîtrise des outils Data et Business Intelligence en parcourant les projets réalisés.
 
 ---
 
