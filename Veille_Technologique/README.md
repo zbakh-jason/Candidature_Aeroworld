@@ -1,4 +1,4 @@
-\# Tableau de bord - Veille technologique
+# Tableau de bord - Veille technologique
 
 
 
@@ -7,12 +7,10 @@ Ce tableau de bord offre une veille technologique factuelle en s'appuyant sur l'
 
 
 <div align="center">
-
-    <img src="./Tableau\_de\_bord\_veille-Analyse\_d'offres\_d'emploi.jpg" width="900px" alt="./Tableau\_de\_bord\_veille-Analyse\_d'offres\_d'emploi">
-
+    <img src="./Tableau_de_bord_veille-Analyse_d'offres_d'emploi.jpg" width="900px" alt="Tableau_de_bord_veille-Analyse_d'offres_d'emploi.jpg">
 </div>
 
 
 
-\## 📂\[Veille\_technologique.pbix](./Veille\_technologique.pbix)
+## 📂[Veille_technologique.pbix](./Veille_technologique.pbix)
 
