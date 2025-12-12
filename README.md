@@ -43,8 +43,14 @@ Une étude approfondie de l'écosystème Aéroworld, identifiant les besoins mé
 ### 4. [Documentation - Préparation des données](./Documentation–Préparation_des_données.pdf)
 Guide technique, conçu pour les utilisateurs sous environnement Windows, détaille la procédure d'ingestion de données via API et les étapes de transformation (ETL) nécessaires à l'élaboration d'un tableau de bord de veille technologique.
 
-### 4. [Tableau de bord - Veille Technologique](./Veille_Technologique/)
+### 5. [Vidéo Pédagogique](./Documentation–Préparation_des_données.pdf)
+Guide technique au format vidéo 
+
+### 6. [Tableau de bord - Veille Technologique](./Veille_Technologique/)
 Tableau de bord offre une veille technologique factuelle en s'appuyant sur l'analyse quantitative des offres d'emploi, un indicateur avancé qui permet de confirmer l'utilisation effective des technologies en production au sein des entreprises.
+
+### 7. [Tableau de bord - Portfolio Candidat](./Portfolio_Candidat/)
+Tableau de bord interactif offre une exploration dynamique de mon expertise technique et permet de visualiser concrètement ma maîtrise des outils Data et Business Intelligence.
 
 
 ---
